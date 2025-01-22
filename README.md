@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently a final year Data Sciences student at the University of KwaZulu-Natal.<br>🌱Currently learning about Crypto - I have traded in Forex and Binary for the past 4 years.<br>💬Ask me about the software I am developing on a Python-based Framework for Binary Trading.<br>⚡Fun Fact: I am enthusiastic about Computers, Engines and Hindi Music!<br> 
+🔭I am Data Science graduate from the University of KwaZulu-Natal.<br>🌱Currently learning about Crypto - I have traded in Forex and Binary for the past 4 years.<br>💬Ask me about the software I am developing on a Python-based Framework for Binary Trading.<br>⚡Fun Fact: I am enthusiastic about Computers, Engines and Hindi Music!<br> 
 
 
 ## 🌐 Socials:
